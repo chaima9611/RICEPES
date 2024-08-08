@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RICEPES/static/css/main.e3374759.css",
+    "main.js": "/RICEPES/static/js/main.60b32a28.js",
+    "index.html": "/RICEPES/index.html",
+    "main.e3374759.css.map": "/RICEPES/static/css/main.e3374759.css.map",
+    "main.60b32a28.js.map": "/RICEPES/static/js/main.60b32a28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3374759.css",
+    "static/js/main.60b32a28.js"
+  ]
+}
